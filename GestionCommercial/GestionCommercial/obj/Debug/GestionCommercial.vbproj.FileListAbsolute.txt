@@ -1,0 +1,12 @@
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\bin\Debug\GestionCommercial.exe.config
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\bin\Debug\GestionCommercial.exe
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\bin\Debug\GestionCommercial.pdb
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\bin\Debug\GestionCommercial.xml
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.vbproj.AssemblyReference.cache
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.Form1.resources
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.Resources.resources
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.vbproj.GenerateResource.cache
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.vbproj.CoreCompileInputs.cache
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.exe
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.xml
+C:\Users\ADS\source\repos\GestionCommercial\GestionCommercial\obj\Debug\GestionCommercial.pdb
